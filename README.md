@@ -15,12 +15,17 @@
 
 ## 🧑‍💻 About Me
 
-🎓 **3rd Year BSc.(Hons) Cloud Computing** student at **SLTC Research University**, Sri Lanka**
-☁️** Passionate about building **scalable, real-world software solutions**
-🤖** Background in **robotics** — All Island School Robot Competition (2019)**
-🌱 **Currently deepening skills in **DevOps, Cloud-Native Architectures & AI/ML**
-📬** Reach me at **asmaasim7star@gmail.com**
-🚀 **Eager to collaborate on **Software Engineering, Cloud & AI-powered projects**
+- 🎓 **3rd Year BSc.(Hons) Cloud Computing** student at **SLTC Research University**, Sri Lanka
+
+- ☁️ Passionate about building **scalable, real-world software solutions**
+
+- 🤖 Background in **robotics** — All Island School Robot Competition (2019)
+
+- 🌱 Currently deepening skills in **DevOps, Cloud-Native Architectures & AI/ML**
+
+- 📬 Reach me at **asmaasim7star@gmail.com**
+
+- 🚀 Eager to collaborate on **Software Engineering, Cloud & AI-powered projects**
 
 ---
 
