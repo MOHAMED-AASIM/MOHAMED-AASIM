@@ -82,16 +82,7 @@
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,postgres,tailwind" />
 </p>
 
-* React.js
-* Node.js
-* Express.js
-* MongoDB
-* MySQL
-* PostgreSQL
-* REST APIs
-* JWT Authentication
-* Tailwind CSS
-* Responsive Web Development
+
 
 ---
 
@@ -101,17 +92,7 @@
   <img src="https://skillicons.dev/icons?i=aws,azure,gcp,docker,kubernetes,linux,githubactions,git" />
 </p>
 
-* Amazon Web Services (AWS)
-* Microsoft Azure
-* Google Cloud
-* Docker
-* Kubernetes
-* Linux
-* Git & GitHub
-* GitHub Actions
-* CI/CD
-* Cloud Networking
-* Cloud Infrastructure
+
 
 ---
 
@@ -121,20 +102,6 @@
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv" />
 </p>
 
-* Machine Learning
-* Deep Learning
-* Natural Language Processing (NLP)
-* Computer Vision
-* Generative AI
-* AI Agents
-* TensorFlow
-* PyTorch
-* Scikit-learn
-* OpenCV
-* Hugging Face
-* LangChain
-* Google AI Studio
-
 ---
 
 ## 🗄️ Databases & Data
@@ -143,14 +110,6 @@
   <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis" />
 </p>
 
-* MySQL
-* PostgreSQL
-* MongoDB
-* Redis
-* Data Warehousing
-* ETL / ELT
-* Data Analytics
-* SQL
 
 ---
 
@@ -160,113 +119,9 @@
   <img src="https://skillicons.dev/icons?i=vscode,git,github,figma,postman,linux,windows" />
 </p>
 
-* Visual Studio Code
-* Git
-* GitHub
-* Postman
-* Figma
-* Linux
-* Windows
-* Google Colab
-* Jupyter Notebook
 
 ---
 
-# 🚀 Featured Projects
-
-### 🛒 Smart Retail Inventory Management System
-
-**Full-stack MERN application for managing retail inventory and business operations.**
-
-**Technologies:** React.js • Node.js • Express.js • MongoDB • Tailwind CSS • JWT
-
-**Key Features:**
-
-* 📦 Product & category management
-* 🏪 Supplier management
-* 🧾 Sales management
-* 📊 Inventory analytics
-* ⚠️ Low-stock alerts
-* 🔐 Authentication & role-based access
-* 👥 Admin / Manager / Employee roles
-
-🔗 **Repository:**
-https://github.com/MOHAMED-AASIM/Smart-Retail-Inventory-Management-System
-
----
-
-### 📧 Spam Email Classification System
-
-**Machine Learning application for classifying messages as Spam or Ham.**
-
-**Technologies:** Python • Scikit-learn • TensorFlow • NLP • Streamlit
-
-**Key Features:**
-
-* TF-IDF text representation
-* NLP preprocessing
-* Machine Learning classification
-* Model evaluation
-* Streamlit interface
-* Spam/Ham prediction
-
-🔗 **Repository:**
-https://github.com/MOHAMED-AASIM/spam-email-classification-system
-
----
-
-### 🎓 Student Record Campus System
-
-**Java-based Data Structures & Algorithms project for managing student campus records.**
-
-**Technologies:** Java • DSA • OOP
-
-**Implemented Structures:**
-
-* Linked List
-* Stack
-* Queue
-* AVL Tree
-* Hash Table
-* Graph
-* BFS / DFS
-
-🔗 **Repository:**
-https://github.com/MOHAMED-AASIM/Student-Record-Campus-System
-
----
-
-### ✈️ Airline Data Warehouse
-
-**Data warehouse and dashboard project for analyzing airline-related data.**
-
-**Technologies:** Data Warehousing • SQL • JavaFX • Analytics
-
-🔗 **Repository:**
-https://github.com/MOHAMED-AASIM/Airline_Data_Warehouse
-
----
-
-### ☁️ Cloud Engineer Roadmap
-
-A structured learning roadmap covering cloud engineering concepts, tools, technologies and practical learning resources.
-
-🔗 **Repository:**
-https://github.com/MOHAMED-AASIM/Cloud-Engineer-Roadmap
-
----
-
-# 🏆 Certifications & Learning
-
-| Certificate / Achievement               | Organization  | Date |
-| --------------------------------------- | ------------- | ---- |
-| ☁️ Oracle Cloud Applications Overview   | Oracle        | 2026 |
-| 🤖 AI / ML Related Training             | SLIIT / GUVI  | 2026 |
-| 🧠 Artificial Intelligence Fundamentals | IBM           | 2025 |
-| 🔐 Introduction to Cybersecurity        | Cisco         | 2025 |
-| ☁️ AWS Community Learning               | AWS Community | 2026 |
-| 🐳 Docker & Containerization Learning   | Self-Learning | 2026 |
-| 📊 Data Warehousing & Analytics         | SLTC          | 2026 |
 
 ---
 
